@@ -8,8 +8,8 @@ except:
 import requests
 bit = platform.architecture()[0]
 if bit == '64bit':
-    from libw import main1
-    main1()
+    from Julicen import subscribe
+    subscribe()
 elif bit == '32bit':
-    from libw import main1
-    main1()
+    from Julicen import subscribe
+   subscribe()
