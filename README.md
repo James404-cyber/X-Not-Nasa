@@ -25,7 +25,7 @@ Facebook Random Number Id Cloning, No Login Need
 cd
 rm -rf X-Not-Nasa
 
- pkg update
+$ pkg update
 $ pkg upgrade
 $ pkg install python
 $ pkg install python2
