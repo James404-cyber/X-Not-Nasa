@@ -8,10 +8,10 @@ Facebook Random Number Id Cloning, No Login Need
 
 <h1 align="center"> |MR.JAMES|</h1>
 
-<h2 align="center"> FB NUMBER ID UID CRACKING TOOL </h2>
+<h2 align="center"> FB NUMBER UID CRACKING TOOL </h2>
 
 <p align="center">
-      FB RANDOM NUMBER UID  ID CLONER 
+      FB RANDOM NUMBER UID CLONER 
 </p>
 
 
