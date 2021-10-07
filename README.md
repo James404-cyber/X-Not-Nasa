@@ -35,7 +35,6 @@ $ pip2 install bs4 cython
 $ pkg install git
 $ git clone https://github.com/James404-cyber/X-Not-Nasa.git
 $ cd X-Not-Nasa 
-$ cythonize -i Julicen.c
 $ python2 Teszam.py
 
 Note: This One Paid Tools, So You Take First Approval For Using This Tools
