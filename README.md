@@ -38,7 +38,7 @@ $ cd X-Not-Nasa
 $ python2 Teszam.py
 
 Note: This One Paid Tools, So You Take First Approval For Using This Tools
-Note: Only For Bangladesh 
+ 
 
 
 ```
